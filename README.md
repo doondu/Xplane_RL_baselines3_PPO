@@ -20,9 +20,11 @@ Reinforcement learning with the PPO algorithm in X-plane11 simulator.
 <br>
 <br>
 ---------------------------------------------
+
 # Setting 1_ XPlane setting
 1. X-Plane
    Download and install X-Plane 11
+
 <br>
 <br>
 <br>
@@ -39,6 +41,7 @@ Reinforcement learning with the PPO algorithm in X-plane11 simulator.
 3. Check your menu bar in X Plane 11
     > plugins > show Plugin Admin
     if you can check X-Plane Connect [Version 1.2.0], it's done
+
 <br>
 <br>
 <br>
@@ -54,6 +57,7 @@ Reinforcement learning with the PPO algorithm in X-plane11 simulator.
 3. Check your menu bar in X Plane 11
     > plugins > show Plugin Admin
     if you can check XLua 1.0.0r1, it's done
+
 <br>
 <br>
 <br>
