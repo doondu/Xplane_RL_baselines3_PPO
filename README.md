@@ -1,10 +1,14 @@
 # Xplane_baselines3_PPO
 Reinforcement learning with the PPO algorithm in X-plane11 simulator.
 
+
+
 ---------------------------------------------
 # Setting 1_ XPlane setting
 1. X-Plane
    Download and install X-Plane 11
+
+
    
 # Setting 2_ XPlane connection setting
 1. XPC
@@ -17,6 +21,8 @@ Reinforcement learning with the PPO algorithm in X-plane11 simulator.
     > plugins > show Plugin Admin
     if you can check X-Plane Connect [Version 1.2.0], it's done
 
+
+
 # Setting 3_ FlyWithLua
 1. FlyWithLua
    link >> FlyWithLua NG (Next Generation) Edition for X-Plane 11 (Win, Lin, Mac) - Utilities - X-Plane.Org Forum
@@ -26,6 +32,8 @@ Reinforcement learning with the PPO algorithm in X-plane11 simulator.
 3. Check your menu bar in X Plane 11
     > plugins > show Plugin Admin
     if you can check XLua 1.0.0r1, it's done
+
+
 
 # Setting 4_ virtualenv
 - $ python3.8 -m pip install virtualenv
