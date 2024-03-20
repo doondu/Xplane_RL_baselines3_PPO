@@ -1,8 +1,5 @@
 # Xplane_RL_baselines3_PPO
 Reinforcement learning with the PPO algorithm in X-plane11 simulator.
-<br>
-<br>
-<br>
 
 ## Using tool
 1. baselines3
