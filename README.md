@@ -14,7 +14,8 @@ Reinforcement learning with the PPO algorithm in X-plane11 simulator.
 4. FlyWithLua
    https://forums.x-plane.org/index.php?/files/file/38445-flywithlua-ng-next-generation-edition-for-x-plane-11-win-lin-mac/
 <br>
-## reference git
+
+## Refernce git
 1. https://github.com/adderbyte/GYM_XPLANE_ML
 <br>
 <br>
