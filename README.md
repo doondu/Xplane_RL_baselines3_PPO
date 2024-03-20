@@ -16,13 +16,13 @@ Reinforcement learning with the PPO algorithm in X-plane11 simulator.
 ### Environment
 Ubuntu 20.04.6 LTS, 64bit x86_64
 <br>
-<br>
-<br>
-
 
 --------------------------------
+
+<br>
+
 ## Setting
---------------------------------
+
 ### 1_ XPlane setting
 1. X-Plane
    Download and install X-Plane 11
@@ -48,29 +48,47 @@ Ubuntu 20.04.6 LTS, 64bit x86_64
     if you can check XLua 1.0.0r1, it's done
 
 ### 4_ virtualenv
-- $ python3.8 -m pip install virtualenv
-- $ virtualenv --python=python3.8 myEnv (you can change myEnv what you want)
-- $ cd myEnv
-- $ source bin/activate
+
+    python3.8 -m pip install virtualenv
+    virtualenv --python=python3.8 myEnv #you can change myEnv what you want
+    cd myEnv
+    source bin/activate
+
   
 ### 5_ install baselines3
-- $ pip install stable-baselines3
+
+
+    pip install stable-baselines3
+
+
 <br>
-<br>
+
 --------------------------------
+
+<br>
+
 ## Action space parameters
---------------------------------
+
 | Action Space Parameter | Action type | Action Value Range |
 | --- | --- |---|
 | Latitudinal Stick | [Box]|  [-1,1] |
 | Longitudinal Stick  | [Box]| [-1,1] |
 | Rudder Pedals | [Box]| [-1,1]|
 | Throttle | [Box]| [-1/4,1] |
---------------------------------
+
+
 ## Observation space parameters
---------------------------------
+
+
 | State Space Parameter | State type | State Value Range |
 | --- | --- |---|
 | yaw (heading) | [Box]|  [0,360] |
 | pitch | [Box] | [-180,180] |
 | roll | [Box] | [-180,180]|
+
+
+<br>
+
+--------------------------------
+
+<br>
