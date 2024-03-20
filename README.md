@@ -3,6 +3,7 @@ Reinforcement learning with the PPO algorithm in X-plane11 simulator.
 <br>
 <br>
 <br>
+
 ## Using tool
 1. baselines3
    https://github.com/DLR-RM/stable-baselines3
@@ -15,6 +16,7 @@ Reinforcement learning with the PPO algorithm in X-plane11 simulator.
 <br>
 <br>
 <br>
+
 ## reference git
 1. https://github.com/adderbyte/GYM_XPLANE_ML
 
