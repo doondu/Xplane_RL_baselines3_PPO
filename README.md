@@ -59,3 +59,9 @@ Reinforcement learning with the PPO algorithm in X-plane11 simulator.
 - $ virtualenv --python=python3.8 myEnv (you can change myEnv what you want)
 - $ cd myEnv
 - $ source bin/activate
+
+
+<br>
+
+## Setting 5_ install baselines3
+- $ pip install stable-baselines3
