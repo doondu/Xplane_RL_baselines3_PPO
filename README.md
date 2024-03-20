@@ -13,6 +13,8 @@ Reinforcement learning with the PPO algorithm in X-plane11 simulator.
 
 ## Refernce git
 1. https://github.com/adderbyte/GYM_XPLANE_ML
+## Environment
+Ubuntu 20.04.6 LTS, 64bit x86_64
 <br>
 <br>
 <br>
