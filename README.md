@@ -97,18 +97,10 @@ Ubuntu 20.04.6 LTS, 64bit x86_64
 
 ### Learn
 
-![alt-text](https://github.com/doondu/Xplane_RL_baselines3_PPO/blob/main/images/reward_comparison_learn.png)
+![alt-text](https://github.com/doondu/Xplane_RL_baselines3_PPO/blob/main/images/150_ppo_last_reward.png)
 
-### Model2 learn
+### Comparison model_2 and model_150
 
-![alt-text](https://github.com/doondu/Xplane_RL_baselines3_PPO/blob/main/images/reward_learn_model2.png)
-
-### Model2 predict
-
-![alt-text](https://github.com/doondu/Xplane_RL_baselines3_PPO/blob/main/images/reward_predict_with_model2.png)
-
-### Comparison learn and predict (model2)
-
-![alt-text](https://github.com/doondu/Xplane_RL_baselines3_PPO/blob/main/images/reward_learn_predict.png)
+![alt-text](https://github.com/doondu/Xplane_RL_baselines3_PPO/blob/main/images/test_ppo_model.png)
 
 
